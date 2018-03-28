@@ -12,5 +12,14 @@
 	<atom:link href="https://okenadam.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>BBMB Senoir Seminar Talk</title>
+      <link>https://okenadam.github.io/talk/bbmb-seminar-talk/</link>
+      <pubDate>Tue, 14 Mar 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://okenadam.github.io/talk/bbmb-seminar-talk/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
