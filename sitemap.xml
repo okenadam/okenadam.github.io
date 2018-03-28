@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://okenadam.github.io/project/structural-biology/</loc>
+      <lastmod>2018-03-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://okenadam.github.io/talk/bbmb-seminar-talk/</loc>
       <lastmod>2017-03-14T00:00:00-07:00</lastmod>
     </url>
@@ -50,6 +59,15 @@
     
     <url>
     
+      <loc>https://okenadam.github.io/project/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://okenadam.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -69,6 +87,26 @@
     
     <url>
     
+      <loc>https://okenadam.github.io/tags/deep-learning/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://okenadam.github.io/project/</loc>
+      <lastmod>2018-03-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://okenadam.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
@@ -78,7 +116,18 @@
     
     <url>
     
+      <loc>https://okenadam.github.io/tags/structural-biology/</loc>
+      <lastmod>2018-03-18T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://okenadam.github.io/tags/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

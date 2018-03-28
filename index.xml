@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Structural Biology</title>
+      <link>https://okenadam.github.io/project/structural-biology/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://okenadam.github.io/project/structural-biology/</guid>
+      <description>&lt;p&gt;More to come soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>BBMB Senior Seminar Talk</title>
       <link>https://okenadam.github.io/talk/bbmb-seminar-talk/</link>
       <pubDate>Tue, 14 Mar 2017 00:00:00 -0700</pubDate>
@@ -26,6 +36,16 @@
       
       <guid>https://okenadam.github.io/talk/math-senior-sem-talk/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://okenadam.github.io/project/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://okenadam.github.io/project/deep-learning/</guid>
+      <description>&lt;p&gt;The computerization of biology in recent decades has fundamentally changed the way knowledge about life can be acquired and applied. Technological advances are ever-heightening the predictive ability of biological science, while at the same time inundating our existing workflow channels. Wielding an integrative, machine-driven toolset, my goal is to part this sea of data and find sunken material of biological significance. In particular, I am interested in the development and advancement of deep learning applications in medical imaging and electron microscopy data analysis.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
