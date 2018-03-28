@@ -67,13 +67,12 @@
     </item>
     
     <item>
-      <title>Custom Section</title>
-      <link>https://okenadam.github.io/home/teaching/</link>
+      <title>custom</title>
+      <link>https://okenadam.github.io/home/teach/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://okenadam.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <guid>https://okenadam.github.io/home/teach/</guid>
+      <description>Two thesis&amp;rsquo;s</description>
     </item>
     
     <item>
